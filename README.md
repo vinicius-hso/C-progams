@@ -1,2 +1,2 @@
 # C-progams
-This is a repository for C language programs
+Esse é um repositóri de programas em C realizados durante o curso de ADS da Fatec SJC.
